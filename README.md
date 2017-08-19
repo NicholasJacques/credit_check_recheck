@@ -1,4 +1,4 @@
-README
+### README
 
 Object oriented solution to [this](http://backend.turing.io/module1/projects/credit_check) coding challenge.
 
